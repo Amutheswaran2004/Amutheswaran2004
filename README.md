@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GowthamXeno.GowthamXeno" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=500&center=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Gowtham;Programming+Enthusiast+;Full+Stack+Web+Developer" alt="Hi There! I'm Amutheswaran M 👋 " /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=500&center=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Amutheswaran;Programming+Enthusiast+;Full+Stack+Web+Developer" alt="Hi There! I'm Amutheswaran M 👋 " /></a>
 </h1>
 
 <h3 align="center">I'm Amutheswaran, a devoted enthusiast with a passion for coding !</h3>
